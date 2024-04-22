@@ -13,7 +13,4 @@ El servidor HTTP creado con este código realiza las siguientes funciones:
 
 1. Clona o descarga este repositorio en tu máquina local.
 2. Asegúrate de tener Python instalado en tu sistema.
-3. Ejecuta el archivo `servidor.py` utilizando el siguiente comando:
-
-```bash
-python servidor.py
+3. Ejecuta el archivo `.py` utilizando.
